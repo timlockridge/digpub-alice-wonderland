@@ -24,3 +24,7 @@ p {
 .img {
   float: left;
 }
+
+blockquote {
+  font-style: italic;
+}
