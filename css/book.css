@@ -4,6 +4,10 @@ p {text-indent: 3%;
 title {font-family: "Georgia", serif;
 }
 h2 {font-family: "Georgia", serif;
+    text-align: center;
+}
 }
 h3 {font-family: "Georgia", serif;
+}
+.chapter-title {text-align: center;
 }
