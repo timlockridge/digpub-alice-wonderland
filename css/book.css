@@ -1,2 +1,9 @@
-p {text-indent: 3%
+p {text-indent: 3%;
+  font-family: "Georgia", serif;
+}
+title {font-family: "Georgia", serif;
+}
+h2 {font-family: "Georgia", serif;
+}
+h3 {font-family: "Georgia", serif;
 }
