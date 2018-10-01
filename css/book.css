@@ -17,7 +17,7 @@ h3 {
 #by {
   font-family: "Georgia", serif;
   text-align: center;
-  font-size: 8px;
+  font-size: 12px;
   text-transform: capitalize;
 }
 
@@ -40,7 +40,7 @@ h3 {
 #illustration-info {
   font-family: "Georgia", serif;
   text-align: center;
-  font-size: 9px;
+  font-size: 14px;
   text-transform: capitalize;
   font-style: italic;
 }
@@ -48,14 +48,14 @@ h3 {
 .beginning-information {
   font-family: "Georgia", serif;
   text-align: center;
-  font-size: 9px;
+  font-size: 14px;
   text-transform: capitalize;
 }
 
 .edition-information {
   font-family: "Georgia", serif;
   text-align: center;
-  font-size: 6px;
+  font-size: 12px;
   text-transform: capitalize;
   font-style: italic;
 }
