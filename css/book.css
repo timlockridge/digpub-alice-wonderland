@@ -9,16 +9,11 @@ h2{
 }
 h3{
   font-family: "Georgia", serif;
+  text-align: center;
 }
 p {
 	   text-indent: 3%;
             }
 h2{
 text-align: center
-}
-h3{
-  p {
-	   text-indent: 3%;
-            }
-
 }
