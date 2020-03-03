@@ -1,0 +1,13 @@
+img {
+    max-width: 50%;
+    height: auto;
+}
+h2, h3, figure {
+    text-align: center;
+}
+p {
+    text-indent: 2em;
+}
+body {
+    margin: 0em 7.5%;
+}
