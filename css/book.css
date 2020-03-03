@@ -8,6 +8,9 @@ h2, h3, figure {
 p {
     text-indent: 2em;
 }
+p::first-letter {
+    font-size: 115%;
+}
 body {
     margin: 0em 7.5%;
 }
