@@ -6,3 +6,18 @@
 img {
     width: 50%;
 }
+.wind1 {
+    font-size: 85%;
+}
+.wind2 {
+    font-size: 60%;
+}
+.wind3 {
+    font-size: 50%
+}
+.wind4 {
+    font-size: 40%;
+}
+h2, h3, figure, blockquote {
+    text-align: center;
+}
