@@ -1,0 +1,37 @@
+.sparkle {
+    font-size: x-large;
+    font-weight: 900;
+    overflow: hidden;
+}
+img {
+    max-width: 50%;
+    height: auto;
+}
+.wind1 {
+    font-size: 85%;
+}
+.wind2 {
+    font-size: 75%;
+}
+.wind3 {
+    font-size: 65%
+}
+.wind4 {
+    font-size: 55%;
+}
+h2, h3, figure, blockquote {
+    text-align: center;
+}
+.winding {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center
+}
+p {
+    text-indent: 2em;
+}
+p::first-letter {
+    font-size: 115%;
+}
+body {
+    margin: 0em 7.5%;
+}
